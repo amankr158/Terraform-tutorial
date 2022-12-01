@@ -1,0 +1,5 @@
+If you have multiple .tfvars files then select on of them by using this command.
+
+> terraform plan -var-file=file_name.tfvars
+
+EX: > terraform plan -var-file=development.tfvars

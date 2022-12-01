@@ -1,0 +1,7 @@
+TO give variable value from command run this:
+
+>terraform plan -var "variable_name=Value"
+
+EX in our case:
+
+>terraform plan -var "username=Aman"

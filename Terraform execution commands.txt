@@ -1,0 +1,1 @@
+> terraform plan      #Use this cmd in terminal in file location to execute your terraform file

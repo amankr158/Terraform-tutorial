@@ -1,0 +1,12 @@
+join Function
+join produces a string by concatenating together all elements of a given list of strings with the given delimiter.
+
+join(separator, list)
+
+
+Examples
+> join(", ", ["foo", "bar", "baz"])
+foo, bar, baz
+
+> join(", ", ["foo"])
+foo
